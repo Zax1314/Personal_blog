@@ -1,0 +1,14 @@
+# Project exclude paths
+/HBuilderX/plugins/format/node_modules/
+/HBuilderX/plugins/jshint/node_modules/
+/HBuilderX/plugins/ls/dtsparser/node_modules/
+/HBuilderX/plugins/ls/node-ls/node_modules/
+/HBuilderX/plugins/node_modules/
+/HBuilderX/plugins/nodeserver/node_modules/
+/HBuilderX/plugins/npm/node_modules/
+/HBuilderX/plugins/plugin-manager/node_modules/
+/HBuilderX/plugins/uniapp-cli/node_modules/
+/HBuilderX/plugins/unicloud/node_modules/
+/HBuilderX/plugins/weapp-tools/node_modules/
+/test/dist/
+/test/node_modules/
