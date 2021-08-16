@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a58d65cf-f0eb-4771-a734-9d1f280ae1fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../easydom/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../easydom/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../easydom/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../easydom/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../easydom/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../easydom/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../easydom/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../easydom/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../easydom/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../easydom/src/components/HelloWorld.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../easydom/src/components/index/home.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../easydom/src/components/myself_markdown.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../easydom/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../easydom/src/router/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../easydom/src/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guanli/src/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/myself_markdown.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/src/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/src/components/LoginBox.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/components/LoginBox.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/src/components/Main-header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/components/Main-header.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/src/components/Main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/components/Main.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/src/router/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/router/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/src/style/loading.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/src/utils/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/utils/api.js" afterDir="false" />
-    </list>
+    <list default="true" id="a58d65cf-f0eb-4771-a734-9d1f280ae1fd" name="Default Changelist" comment="2TH" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,8 +110,16 @@
       <workItem from="1628920807385" duration="2184000" />
       <workItem from="1628994354147" duration="602000" />
       <workItem from="1629016230748" duration="1202000" />
-      <workItem from="1629081550954" duration="2378000" />
+      <workItem from="1629081550954" duration="2685000" />
     </task>
+    <task id="LOCAL-00001" summary="2TH">
+      <created>1629084667720</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629084667720</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,5 +136,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2TH" />
+    <option name="LAST_COMMIT_MESSAGE" value="2TH" />
   </component>
 </project>
