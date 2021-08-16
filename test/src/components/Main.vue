@@ -49,7 +49,6 @@ export default {
       index:1,
       bimage:null,
       images_list:null,
-      main_url:"http://121.4.51.70:8080/ssm_web-1.0/",
       list_image:[],
       is_hovered:false,
       ptitle:null,

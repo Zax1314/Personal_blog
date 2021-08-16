@@ -150,6 +150,7 @@ export default {
 }
 </script>
 <style>
+@import "../style/main.css";
 *{
   margin: 0px;
   padding: 0px;

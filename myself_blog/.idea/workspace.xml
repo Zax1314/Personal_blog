@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a58d65cf-f0eb-4771-a734-9d1f280ae1fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../easydom/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../easydom/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../easydom/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../easydom/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../easydom/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../easydom/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../easydom/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../easydom/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../easydom/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../easydom/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../easydom/src/components/index/home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../easydom/src/components/myself_markdown.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../easydom/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../easydom/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../easydom/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guanli/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/myself_markdown.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/components/LoginBox.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/components/LoginBox.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/components/Main-header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/components/Main-header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/components/Main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/components/Main.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/router/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/router/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/style/loading.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/utils/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/utils/api.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1wKpT2bXq4qeeTIN9DxZlKuB8C5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\vue\myself_blog\src\components" />
+      <recent name="D:\vue\myself_blog\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\vue\myself_blog\src\components\index" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm serve">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:8080">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm serve" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Debug Application" />
+      <item itemvalue="npm.serve" />
+      <item itemvalue="npm.npm serve" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a58d65cf-f0eb-4771-a734-9d1f280ae1fd" name="Default Changelist" comment="" />
+      <created>1628217139213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628217139213</updated>
+      <workItem from="1628217140454" duration="14941000" />
+      <workItem from="1628389773736" duration="178000" />
+      <workItem from="1628389967072" duration="6064000" />
+      <workItem from="1628407659456" duration="6339000" />
+      <workItem from="1628472781038" duration="9667000" />
+      <workItem from="1628491828118" duration="13784000" />
+      <workItem from="1628557227526" duration="7205000" />
+      <workItem from="1628569793344" duration="1166000" />
+      <workItem from="1628578884652" duration="3062000" />
+      <workItem from="1628670150849" duration="5420000" />
+      <workItem from="1628754671867" duration="1486000" />
+      <workItem from="1628756216207" duration="4850000" />
+      <workItem from="1628845574092" duration="1200000" />
+      <workItem from="1628907212111" duration="2366000" />
+      <workItem from="1628920807385" duration="2184000" />
+      <workItem from="1628994354147" duration="602000" />
+      <workItem from="1629016230748" duration="1202000" />
+      <workItem from="1629081550954" duration="2378000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

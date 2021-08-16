@@ -124,7 +124,7 @@ export default {
           }
           axios.post("/api/login",params)
             .then(response=>{
-              if(response.data.ok==1) {
+              if(response.ok==1) {
                 _this.submitting = false;
                 btn.disabled = false;
                 this.chang_box();
