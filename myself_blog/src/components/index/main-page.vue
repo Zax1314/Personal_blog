@@ -6,16 +6,17 @@
 
 <!--        </el-carousel-item>-->
 <!--      </el-carousel>-->
-      <ul style="width: 100%;padding: 10px;box-sizing: border-box" class="main_box">
-        <li v-for="index in count" style="width: 100%;height: auto;" :key="index" class="animate__animated animate__fadeInUp" >
-          <div style="width: 100%;height:auto;background: white;border-radius: 5px;padding: 20px;box-sizing: border-box;margin-top: 30px" >
-            <button style="float: right;width: 90px;height: 30px;border-radius: 4px;border: none;cursor: pointer;" class="del_btn" @click="read(posts[index-1].ptitle)">删除</button>
-            <button style="float: right;width: 90px;height: 30px;border-radius: 4px;border: none;cursor: pointer;" class="update_btn" @click="read(posts[index-1].ptitle)">修改</button>
-            <span class="main_title">{{ posts[index-1].ptitle }}</span>
-            <br/><br/>
-            <span>作者：{{posts[index-1].uname}}</span> <span>时间：{{ posts[index-1].ptime }}</span>
 
-            <button style="float: right;width: 90px;height: 30px;border-radius: 4px;border: none;cursor: pointer" class="review_btn" @click="read(posts[index-1].ptitle)">复习</button>
+      <ul style="width: 100%;padding: 10px;box-sizing: border-box" class="main_box">
+        <li v-for="(items) in posts" style="width: 100%;height: auto;" :key="items.pid" class="animate__animated animate__fadeInUp" ref="all_li">
+          <div style="width: 100%;height:auto;background: white;border-radius: 5px;padding: 20px;box-sizing: border-box;margin-top: 30px" >
+            <button style="float: right;width: 90px;height: 30px;border-radius: 4px;border: none;cursor: pointer;" class="del_btn" @click="read(items.ptitle)">删除</button>
+            <button style="float: right;width: 90px;height: 30px;border-radius: 4px;border: none;cursor: pointer;" class="update_btn" @click="read(items.ptitle)">修改</button>
+            <span class="main_title">{{ items.ptitle }}</span>
+            <br/><br/>
+            <span>作者：{{items.uname}}</span> <span>时间：{{ items.ptime }}</span>
+
+            <button style="float: right;width: 90px;height: 30px;border-radius: 4px;border: none;cursor: pointer" class="review_btn" @click="read(items.ptitle)">复习</button>
           </div>
         </li>
         <el-button v-if="btn_active==true" type="primary" style="width: 100%;margin-top: 10px" @click="loadmore" :disabled="false" :loading="btn_loading">加载更多</el-button>
@@ -23,7 +24,6 @@
       </ul>
     </div>
 </template>
-
 <script>
 import instance from "@/utils/api";
 
@@ -43,6 +43,7 @@ export default {
   methods:{
     read(title){
       this.$router.push({name:'read',params:{ptitle:title}})
+
     },
     load(params){
       this.btn_loading=true;
@@ -64,16 +65,15 @@ export default {
       this.load(params);
     }
   },
-  beforeMount() {
-    var that=this;
-    let params={
-      id:that.count,
-      end_id:that.count+3
-    }
-    that.load(params)
-  },
   mounted() {
-
+    var that=this;
+    that.$nextTick(function(){
+      let params={
+        id:that.count,
+        end_id:that.count+3
+      }
+      that.load(params);
+    })
   }
 }
 </script>

@@ -12,6 +12,7 @@ import '@/assets/css/style.css';
 import {Message} from "element-ui";
 import mavonEditor from 'mavon-editor'
 import 'mavon-editor/dist/css/index.css'
+element.Dialog.props.lockScroll.default=false;
 Vue.use(mavonEditor)
 Vue.prototype.Message=Message
 Vue.prototype.getNowTime= function (){

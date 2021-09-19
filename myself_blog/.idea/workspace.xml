@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a58d65cf-f0eb-4771-a734-9d1f280ae1fd" name="Default Changelist" comment="2TH" />
+    <list default="true" id="a58d65cf-f0eb-4771-a734-9d1f280ae1fd" name="Default Changelist" comment="First">
+      <change afterPath="$PROJECT_DIR$/../webpackSelfTest/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index/home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index/home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index/main-page.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index/main-page.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/read/read.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/read/read.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +21,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Vue Single File Component" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
@@ -44,6 +55,7 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="ts.external.directory.path" value="D:\webstrom\WebStorm 2021.1.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -110,7 +122,21 @@
       <workItem from="1628920807385" duration="2184000" />
       <workItem from="1628994354147" duration="602000" />
       <workItem from="1629016230748" duration="1202000" />
-      <workItem from="1629081550954" duration="2685000" />
+      <workItem from="1629081550954" duration="11501000" />
+      <workItem from="1629165491971" duration="8847000" />
+      <workItem from="1629949246573" duration="7000" />
+      <workItem from="1629968474131" duration="626000" />
+      <workItem from="1630032736551" duration="1282000" />
+      <workItem from="1630048629194" duration="1589000" />
+      <workItem from="1630142037395" duration="1196000" />
+      <workItem from="1630384632834" duration="28000" />
+      <workItem from="1630489392471" duration="657000" />
+      <workItem from="1630545286278" duration="21000" />
+      <workItem from="1630637729152" duration="877000" />
+      <workItem from="1631524401642" duration="594000" />
+      <workItem from="1631759307841" duration="680000" />
+      <workItem from="1631870070851" duration="746000" />
+      <workItem from="1631933722151" duration="2601000" />
     </task>
     <task id="LOCAL-00001" summary="2TH">
       <created>1629084667720</created>
@@ -119,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629084667720</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First">
+      <created>1629084940890</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1629084940890</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +172,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2TH" />
-    <option name="LAST_COMMIT_MESSAGE" value="2TH" />
+    <MESSAGE value="First" />
+    <option name="LAST_COMMIT_MESSAGE" value="First" />
   </component>
 </project>

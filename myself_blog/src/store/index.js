@@ -6,6 +6,8 @@ const store=new Vuex.Store({
         login_loading:false,
         user:'',
         which_router:'n',
+        view_imgUrl:'',
+        dialogState:false,
     },
     mutations:{
         changLogin_loading(state,flag){
@@ -16,6 +18,12 @@ const store=new Vuex.Store({
         },
         chang_router(state,route){
             state.which_router=route;
+        },
+        chang_ImgUrl(state,img){
+            state.view_imgUrl=img;
+        },
+        change_dialog(state,e){
+            state.dialogState=e;
         }
     },
     //异步请求

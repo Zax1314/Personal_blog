@@ -1,5 +1,6 @@
 <template>
   <div class="container">
+    <view-img :img="view_imgUrl" v-if="dialogState" ></view-img>
 <!--      首页头部-->
       <div class="header">
         <el-row style="width: 100%">
@@ -51,12 +52,14 @@
 <script>
 import {mapMutations} from 'vuex'
 import {mapState} from 'vuex'
+import ViewImg from "@/components/img-view/view-img";
 export default {
   name: 'home',
+  components: {ViewImg},
   data(){
     return{
       input:'',
-      user:''
+      user:'',
     }
   },
   methods:{
@@ -68,7 +71,9 @@ export default {
     }
   },
   computed:{
-    ...mapState(['which_router'])
+    ...mapState(['which_router']),
+    ...mapState(["view_imgUrl"]),
+    ...mapState(["dialogState"]),
   },
   props: {
     msg: String
